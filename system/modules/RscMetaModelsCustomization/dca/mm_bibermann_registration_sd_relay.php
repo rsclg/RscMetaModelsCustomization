@@ -49,6 +49,6 @@ if ($this->User->isAdmin || $this->User->isMemberOf(6))
   (
       'label'               => &$GLOBALS['TL_LANG']['mm_bibermann_registration_sd_relay']['registrationTransferSdOdRelay'],
       'href'                => 'act=registrationTransferSdOdRelay',
-      'icon'                => 'system/modules/mm_customization/assets/registration_transfer.png',
+      'icon'                => 'system/modules/RscMetaModelsCustomization/assets/registration_transfer.png',
   );
 }
